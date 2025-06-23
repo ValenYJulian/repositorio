@@ -1,0 +1,54 @@
+[{
+    "Id": 1,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+},
+
+{
+    "Id": 2,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+},
+
+{
+    "Id": 3,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+},
+
+{
+    "Id": 4,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+},
+
+{
+    "Id": 5,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+},
+
+{
+    "Id": 6,
+    "title":"kiwis",
+    "price": 1200,
+    "description": "Kiwis frescos",
+    "image":"kiwis.jpg",
+    "stock":10
+}
+]
